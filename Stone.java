@@ -1,3 +1,8 @@
+/*
+* Note: None of this code was created by me and was provided as a necessary part of a programming assignment
+* in my CS 312 Introduction to Programming course at the University of Texas at Austin.
+*/
+
 // CSE 142 Critters - Modified for CS312
 // Authors: Marty Stepp and Stuart Reges
 // Minor changes by Mike Scott
